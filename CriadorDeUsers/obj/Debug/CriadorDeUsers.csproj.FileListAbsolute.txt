@@ -1,0 +1,10 @@
+c:\users\raphael.santos\source\repos\CriadorDeUsers\CriadorDeUsers\bin\Debug\CriadorDeUsers.exe.config
+c:\users\raphael.santos\source\repos\CriadorDeUsers\CriadorDeUsers\bin\Debug\CriadorDeUsers.exe
+c:\users\raphael.santos\source\repos\CriadorDeUsers\CriadorDeUsers\bin\Debug\CriadorDeUsers.pdb
+c:\users\raphael.santos\source\repos\CriadorDeUsers\CriadorDeUsers\obj\Debug\CriadorDeUsers.csprojAssemblyReference.cache
+c:\users\raphael.santos\source\repos\CriadorDeUsers\CriadorDeUsers\obj\Debug\CriadorDeUsers.Form1.resources
+c:\users\raphael.santos\source\repos\CriadorDeUsers\CriadorDeUsers\obj\Debug\CriadorDeUsers.Properties.Resources.resources
+c:\users\raphael.santos\source\repos\CriadorDeUsers\CriadorDeUsers\obj\Debug\CriadorDeUsers.csproj.GenerateResource.cache
+c:\users\raphael.santos\source\repos\CriadorDeUsers\CriadorDeUsers\obj\Debug\CriadorDeUsers.csproj.CoreCompileInputs.cache
+c:\users\raphael.santos\source\repos\CriadorDeUsers\CriadorDeUsers\obj\Debug\CriadorDeUsers.exe
+c:\users\raphael.santos\source\repos\CriadorDeUsers\CriadorDeUsers\obj\Debug\CriadorDeUsers.pdb
