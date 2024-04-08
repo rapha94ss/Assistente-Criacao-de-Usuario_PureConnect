@@ -31,6 +31,7 @@
             this.button1 = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.panel1 = new System.Windows.Forms.Panel();
+            this.btnDiretorio = new System.Windows.Forms.Button();
             this.label6 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
             this.panel2 = new System.Windows.Forms.Panel();
@@ -49,7 +50,6 @@
             this.label2 = new System.Windows.Forms.Label();
             this.txtUsername = new System.Windows.Forms.TextBox();
             this.saveFileDialog1 = new System.Windows.Forms.SaveFileDialog();
-            this.btnDiretorio = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
             this.Roles.SuspendLayout();
@@ -98,6 +98,17 @@
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(804, 573);
             this.panel1.TabIndex = 2;
+            // 
+            // btnDiretorio
+            // 
+            this.btnDiretorio.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnDiretorio.Location = new System.Drawing.Point(460, 27);
+            this.btnDiretorio.Name = "btnDiretorio";
+            this.btnDiretorio.Size = new System.Drawing.Size(179, 37);
+            this.btnDiretorio.TabIndex = 13;
+            this.btnDiretorio.Text = "Escolher Diretório";
+            this.btnDiretorio.UseVisualStyleBackColor = true;
+            this.btnDiretorio.Click += new System.EventHandler(this.btnDiretorio_Click);
             // 
             // label6
             // 
@@ -217,11 +228,13 @@
             // 
             // txtExtension
             // 
+            this.txtExtension.AccessibleDescription = "Only numbers";
             this.txtExtension.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtExtension.Location = new System.Drawing.Point(166, 152);
             this.txtExtension.Name = "txtExtension";
             this.txtExtension.Size = new System.Drawing.Size(204, 30);
             this.txtExtension.TabIndex = 8;
+            this.txtExtension.Text = "Only numbers";
             // 
             // label4
             // 
@@ -280,17 +293,6 @@
             // saveFileDialog1
             // 
             this.saveFileDialog1.DefaultExt = "txt";
-            // 
-            // btnDiretorio
-            // 
-            this.btnDiretorio.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnDiretorio.Location = new System.Drawing.Point(460, 27);
-            this.btnDiretorio.Name = "btnDiretorio";
-            this.btnDiretorio.Size = new System.Drawing.Size(179, 37);
-            this.btnDiretorio.TabIndex = 13;
-            this.btnDiretorio.Text = "Escolher Diretório";
-            this.btnDiretorio.UseVisualStyleBackColor = true;
-            this.btnDiretorio.Click += new System.EventHandler(this.btnDiretorio_Click);
             // 
             // Form1
             // 
