@@ -74,7 +74,9 @@ namespace CriadorDeUsers
             txtUsername.Text = "";
             txtPrimeiroNome.Text = "";
             txtSobrenome.Text = "";
+            txtExtension.Text = "";
             //txtExtension.Text = "";
+
         }
         private void button1_Click(object sender, EventArgs e)
         {
@@ -96,6 +98,7 @@ namespace CriadorDeUsers
                         usuario.DisplayName + "," + usuario.Extension + ",," + usuario.Senha + "," + usuario.NetworkID + ",," + usuario.Roles +
                         "," + usuario.Workgroups + ",,");
                 }
+                MessageBox.Show("Usuário cadastrado!");
                 limpaFormulario();
             }catch(Exception ex)
             {

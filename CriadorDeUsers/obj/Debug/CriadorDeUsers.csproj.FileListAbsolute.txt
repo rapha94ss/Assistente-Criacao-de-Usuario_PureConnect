@@ -8,3 +8,13 @@ c:\users\raphael.santos\source\repos\CriadorDeUsers\CriadorDeUsers\obj\Debug\Cri
 c:\users\raphael.santos\source\repos\CriadorDeUsers\CriadorDeUsers\obj\Debug\CriadorDeUsers.csproj.CoreCompileInputs.cache
 c:\users\raphael.santos\source\repos\CriadorDeUsers\CriadorDeUsers\obj\Debug\CriadorDeUsers.exe
 c:\users\raphael.santos\source\repos\CriadorDeUsers\CriadorDeUsers\obj\Debug\CriadorDeUsers.pdb
+C:\Users\raphael.santos\Source\Repos\Assistente-Criacao-de-Usuario_PureConnect\CriadorDeUsers\bin\Debug\CriadorDeUsers.exe.config
+C:\Users\raphael.santos\Source\Repos\Assistente-Criacao-de-Usuario_PureConnect\CriadorDeUsers\bin\Debug\CriadorDeUsers.exe
+C:\Users\raphael.santos\Source\Repos\Assistente-Criacao-de-Usuario_PureConnect\CriadorDeUsers\bin\Debug\CriadorDeUsers.pdb
+C:\Users\raphael.santos\Source\Repos\Assistente-Criacao-de-Usuario_PureConnect\CriadorDeUsers\obj\Debug\CriadorDeUsers.csproj.AssemblyReference.cache
+C:\Users\raphael.santos\Source\Repos\Assistente-Criacao-de-Usuario_PureConnect\CriadorDeUsers\obj\Debug\CriadorDeUsers.Form1.resources
+C:\Users\raphael.santos\Source\Repos\Assistente-Criacao-de-Usuario_PureConnect\CriadorDeUsers\obj\Debug\CriadorDeUsers.Properties.Resources.resources
+C:\Users\raphael.santos\Source\Repos\Assistente-Criacao-de-Usuario_PureConnect\CriadorDeUsers\obj\Debug\CriadorDeUsers.csproj.GenerateResource.cache
+C:\Users\raphael.santos\Source\Repos\Assistente-Criacao-de-Usuario_PureConnect\CriadorDeUsers\obj\Debug\CriadorDeUsers.csproj.CoreCompileInputs.cache
+C:\Users\raphael.santos\Source\Repos\Assistente-Criacao-de-Usuario_PureConnect\CriadorDeUsers\obj\Debug\CriadorDeUsers.exe
+C:\Users\raphael.santos\Source\Repos\Assistente-Criacao-de-Usuario_PureConnect\CriadorDeUsers\obj\Debug\CriadorDeUsers.pdb
